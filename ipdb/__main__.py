@@ -172,7 +172,6 @@ def add_custom_keybinds(p):
         mouse_support=p.shell.mouse_support,
         complete_style=p.shell.pt_complete_style,
         style=p.shell.style,
-        inputhook=p.shell.inputhook,
     )
     return p
 
